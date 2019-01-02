@@ -1,0 +1,1 @@
+document.DOCUMENT_NODE
